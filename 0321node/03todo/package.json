@@ -1,0 +1,23 @@
+{
+  "name": "03todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang-y-z/AgileWeb.git"
+  },
+  "author": "wangyizhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wang-y-z/AgileWeb/issues"
+  },
+  "homepage": "https://github.com/wang-y-z/AgileWeb#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "yargs": "^15.3.1"
+  }
+}
