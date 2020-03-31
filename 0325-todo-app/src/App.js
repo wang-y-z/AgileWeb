@@ -4,6 +4,7 @@ import './App.css';
 import TodoListHeader from "./TodoListHeader";
 import TodoList from "./TodoList";
 import ListItem from "./ListItem";
+import TodoListDelete from "./TodoListDelete"
 
 
 class App extends Component {
@@ -14,6 +15,7 @@ class App extends Component {
 		<div className="App">
 			<TodoListHeader />
 			<TodoList />
+			<TodoListDelete>
 		</div>
 		);	
 	}
