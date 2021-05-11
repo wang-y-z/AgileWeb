@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/wang-y-z/AgileWeb#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "yargs": "^15.3.1"
   }
 }
